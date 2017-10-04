@@ -7,3 +7,6 @@ this will make a conflict!
 we resolved the conflict
 
 edited again in master branch
+
+added a new branch
+
